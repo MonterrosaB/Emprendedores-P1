@@ -50,7 +50,6 @@ header{
 .clash-card__image {
   position: relative;
   height: 230px;
-  margin-bottom: 35px;
   border-top-left-radius: 14px;
   border-top-right-radius: 14px;
 }
@@ -59,8 +58,8 @@ header{
   background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/barbarian-bg.jpg");
 }
 .clash-card__image img {
-  width: 150px;
-  margin: auto;
+  height: 160px;
+  margin: 15px;
 }
 
 .clash-card__image--archer {
